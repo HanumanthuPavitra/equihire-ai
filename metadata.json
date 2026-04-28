@@ -1,0 +1,6 @@
+{
+  "name": "FairAI Live",
+  "description": "Professional AI fairness auditing engine for hiring datasets. Detects gender bias, analyzes skill-experience correlations, and simulates fairer outcomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
